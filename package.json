@@ -1,0 +1,10 @@
+{
+  "name": "gymLib",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "btoa": "^1.2.1",
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^3.2.10"
+  }
+}
